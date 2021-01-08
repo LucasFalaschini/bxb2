@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+@keyframes latidos {
+    from {
+        transform: none;
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    to {
+        transform: none;
+    }
+}
+
+.corazon {
+    display: inline-block;
+    font-size: 30px;
+    animation: latidos .5s infinite;
+    transform-origin: center;
+}

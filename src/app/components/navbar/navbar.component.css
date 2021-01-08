@@ -1,0 +1,18 @@
+.bg-nb {
+    background-color: rgb(108,99,255);
+
+    -webkit-box-shadow: 0px 0px 3px 1px rgba(54,54,54,0.5);
+    -moz-box-shadow: 0px 0px 3px 1px rgba(54,54,54,0.5);
+    box-shadow: 0px 0px 3px 1px rgba(54,54,54,0.5);  
+}
+
+
+
+  .header .navbar {
+    background-color: transparent !important;
+  }
+
+
+  .navbar-default {
+    background-color: transparent;
+}
